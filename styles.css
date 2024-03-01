@@ -1,8 +1,8 @@
 body{
-  background-color: beige;
+  background-color: rgba(117, 155, 197, 0.877);
 }
 .navbar {
-  background-color: #333; 
+  background-color: #4d93ee67; 
   padding: 10px 0;
 }
 
@@ -23,7 +23,7 @@ body{
 }
 
 .navbar li a:hover {
-  color: #999; 
+  color: #bdb5b5; 
 }
 #section1{
   display: flex;
